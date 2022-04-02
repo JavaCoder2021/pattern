@@ -1,4 +1,4 @@
-package by.epam.pattern;
+package by.epam.pattern.singleton;
 
 public class Singleton {
 	
